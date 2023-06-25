@@ -1,4 +1,4 @@
-continent{
+/*continent{
     position: relative;
     justify-content: center;
     display: flex;
@@ -37,4 +37,50 @@ continent{
     position: relative;
     bottom: -280px;
     left: -445px;
+}
+*/
+.continent{
+    max-width: 100%;
+    display: block;
+    margin-left: 5%;
+    margin-right: auto;
+    justify-content: center;
+}
+.s_america{
+    position: relative;
+    display:block;
+    bottom: -11.1979%;
+    left: -9.375%;
+    max-height: 100%;
+}
+.n_america                                                                                                                                                                             f_america{
+    position: relative;
+    display:block;
+    bottom: -10.46875%;
+    left: -10.4166666%;
+    max-height: 100%;
+}
+.asia{
+    object-position: left-bottom;
+    position: relative;
+    display:block;
+    max-height: 100%;
+    left: -7.0833333%;
+    top: -.88541667%;
+
+}
+.africa{
+    bottom: -6.77083333%;
+    display:block;
+    max-height: 100%;
+    position: relative;
+    left: -7.81640625%;
+}
+
+.australia{
+    position: relative;
+    bottom: -14.583333px;
+    left: -23.1770833px;
+    display:block;
+    max-height: 100%;
 }
