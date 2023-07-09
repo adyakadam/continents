@@ -1,4 +1,4 @@
-/*continent{
+.continent{
     position: relative;
     justify-content: center;
     display: flex;
@@ -19,12 +19,18 @@
     left: -200px;
     margin-left: 10px;
 }
+.europe{
+    left: -135px;
+    margin-left: 10px;
+    top: 40px;
+
+}
 .asia{
     object-position: left-bottom;
     position: relative;
-    left: -136px;
+    left: -135px;
     margin-left: 10px;
-    top: -17px;
+    top: 40px;
 
 }
 .africa{
@@ -38,8 +44,8 @@
     bottom: -280px;
     left: -445px;
 }
-*/
-.continent{
+
+/*.continent{
     max-width: 100%;
     display: block;
     margin-left: 5%;
@@ -84,3 +90,4 @@
     display:block;
     max-height: 100%;
 }
+*/
